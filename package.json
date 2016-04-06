@@ -1,0 +1,28 @@
+{
+  "name": "angular-app",
+  "version": "1.0.0",
+  "description": "This is a small project I built for codefellows 401 to learn to set up a project with angular.",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.5.3",
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.1",
+    "webkit": "0.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fraziermork/angular-app.git"
+  },
+  "author": "Frazier Mork <fraziermork@gmail.com> (https://frazier-fibonacci.herokuapp.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fraziermork/angular-app/issues"
+  },
+  "homepage": "https://github.com/fraziermork/angular-app#readme"
+}
